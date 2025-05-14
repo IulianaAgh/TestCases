@@ -13,6 +13,7 @@ Ensure the application blocks login attempts with invalid username or password.
    -invalid user, invalid password
 
 **Test Data**
+
 User: invaliduser
 Pass: validpassword
 
@@ -29,6 +30,7 @@ must display an appropiate error message and prevent access to the account.
 4. Observe the behavior of the application and any error message displayed.
 
 **Test Data**
+
 User:
 Pass:
 
@@ -45,4 +47,5 @@ of generating an error.
 4. Press Enter on the search button.
 
 **Test Data**
+
 abcde
