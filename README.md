@@ -14,8 +14,8 @@ Ensure the application blocks login attempts with invalid username or password.
 
 **Test Data**
 
-User: invaliduser
-Pass: validpassword
+User: invaliduser  
+Pass: validpassword  
 
 -------------------------------------------------
 
