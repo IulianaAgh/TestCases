@@ -31,8 +31,8 @@ must display an appropiate error message and prevent access to the account.
 
 **Test Data**
 
-User:
-Pass:
+User:   
+Pass:   
 
 -------------------------------------
 
